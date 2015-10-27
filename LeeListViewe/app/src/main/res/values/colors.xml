@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="red">#FFC93437</color>
+    <color name="blue">#FF375BF1</color>
+    <color name="yellow">#FFF7D23E</color>
+    <color name="green">#FF34A350</color>
+
+    <color name="orange">#FF9900</color>
+
+    <color name="backgroundColor">@color/background_material_dark</color>
+    <color name="backgroundColorPress">@color/accent_material_dark</color>
+
+</resources>
