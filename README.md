@@ -1,7 +1,6 @@
 控件说明
 ==============
 ### 功能如下
-### episode 1 -- [ActionBar](/action_bar/ "ActionBar")
 ![Alt text](sample.gif)
 
 ### 用了哪些控件
